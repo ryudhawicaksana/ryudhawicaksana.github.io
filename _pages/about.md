@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+---
 
-Predict Heart Failure with SVM and ANN
+### Predict Heart Failure with SVM and ANN
 ======
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20Notebook-blue?logo=google-colab&logoColor=orange)](https://colab.research.google.com/drive/1DVLDZFUVOTe4v17QvyF8IQp05MpD8cmB#scrollTo=X66u9Ffntn9K)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github&logoColor=white)](https://github.com/ryudhawicaksana)
 
-In this project I will perform a comprehensive EDA on the heart failure dataset, then use **Support Vector Machine (SVM)** and **Artificial Neural Network (ANN)** to predict whether or not a patient is likely to die from heart failure.
+In this project I will perform a comprehensive EDA on the heart failure dataset, then use Support Vector Machine (SVM) and Artificial Neural Network (ANN) to predict whether or not a patient is likely to die from heart failure.
 
 ![Heart Failure](/images/heart_failure.png){: .align-center width="600px"}
 
