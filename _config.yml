@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Raka's Homepage"
 title_separator          : "-"
 name                     : &name "Raka Yudha Wicaksana"
 description              : &description "personal description"
