@@ -12,6 +12,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Predict Heart Failure with SVM and ANN
 ======
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20Notebook-blue?logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1DVLDZFUVOTe4v17QvyF8IQp05MpD8cmB#scrollTo=X66u9Ffntn9K)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github&logoColor=white)](https://github.com/ryudhawicaksana)
+
 In this project I will perform a comprehensive EDA on the heart failure dataset, then use **Support Vector Machine (SVM)** and **Artificial Neural Network (ANN)** to predict whether or not a patient is likely to die from heart failure. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 ![Heart Failure](/images/heart_failure.png){: .align-center width="600px"}
