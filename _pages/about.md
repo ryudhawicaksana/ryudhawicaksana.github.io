@@ -14,7 +14,7 @@ redirect_from:
 ### Predict Heart Failure with SVM and ANN
 
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20Notebook-blue?logo=google-colab&logoColor=orange)](https://colab.research.google.com/drive/1DVLDZFUVOTe4v17QvyF8IQp05MpD8cmB#scrollTo=X66u9Ffntn9K)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github&logoColor=white)]([https://github.com/ryudhawicaksana](https://github.com/ryudhawicaksana/predict-heart-failure-with-SVM-and-ANN)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github&logoColor=white)](https://github.com/ryudhawicaksana/predict-heart-failure-with-SVM-and-ANN)
 
 In this project I will perform a comprehensive EDA on the heart failure dataset, then use Support Vector Machine (SVM) and Artificial Neural Network (ANN) to predict whether or not a patient is likely to die from heart failure.
 
