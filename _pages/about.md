@@ -12,14 +12,15 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Predict Heart Failure with SVM and ANN
 ======
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20Notebook-blue?logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1DVLDZFUVOTe4v17QvyF8IQp05MpD8cmB#scrollTo=X66u9Ffntn9K)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20Notebook-blue?logo=google-colab&logoColor=orange)](https://colab.research.google.com/drive/1DVLDZFUVOTe4v17QvyF8IQp05MpD8cmB#scrollTo=X66u9Ffntn9K)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github&logoColor=white)](https://github.com/ryudhawicaksana)
 
-In this project I will perform a comprehensive EDA on the heart failure dataset, then use **Support Vector Machine (SVM)** and **Artificial Neural Network (ANN)** to predict whether or not a patient is likely to die from heart failure. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In this project I will perform a comprehensive EDA on the heart failure dataset, then use **Support Vector Machine (SVM)** and **Artificial Neural Network (ANN)** to predict whether or not a patient is likely to die from heart failure.
 
 ![Heart Failure](/images/heart_failure.png){: .align-center width="600px"}
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).#
 
 Getting started
 ======
@@ -52,4 +53,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
